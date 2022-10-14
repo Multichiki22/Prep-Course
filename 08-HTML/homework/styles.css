@@ -1,0 +1,36 @@
+body{
+    background-image: url("https://i.stack.imgur.com/jGlzr.png");
+}
+.divClass{
+    display: -webkit-flex;
+    display: flex;
+    justify-content: center;
+}
+#firstDiv{
+    display: -webkit-flex;
+    display: initial;
+}
+.title{
+    color: orange;
+    display: flex;
+    justify-content: center;
+}
+#spanId, #a{
+    font-size: 18px;
+    margin: 5px;
+    padding: 10px;
+    border: 5px groove salmon;
+}
+ul{
+width: 1000px;
+min-width: none;
+}
+img{
+    width: 90%;
+}
+h3{
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
